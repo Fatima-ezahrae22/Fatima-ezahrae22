@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Fatima-Ezahrae Mekki</h1>
+<h1 align="center">Hi 👋, I'm <b>Fatima-Ezahrae Mekki</b></h1>
 
 <p align="center">
-  Computer Engineering Student passionate about  
+  <i>Computer Engineering Student passionate about</i>  
   <br>
-  📊 Data Analytics | 📈 Business Intelligence | 💻 Backend Development
+  📊 <b>Data Analytics</b> | 📈 <b>Business Intelligence</b> | 💻 <b>Backend Development</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fatima-ezahrae-mekki">LinkedIn</a> • 
-  <a href="mailto:fatimaezahraemekki@mail.com">Email</a>
+  <a href="https://www.linkedin.com/in/fatima-ezahrae-mekki">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:fatimaezahraemekki@mail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
 🎓 Computer Engineering student with a strong interest in data-driven solutions.  
 
@@ -27,30 +31,30 @@
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-### Programming & Backend
-• Java  
-• Python  
-• C  
-• SQL  
-• REST APIs  
+### 💻 Programming & Backend
+- Java  
+- Python  
+- C  
+- SQL  
+- REST APIs  
 
-### Data & Business Intelligence
-• Data Analysis  
-• Data Visualization  
-• Power BI  
-• Excel  
-• MySQL  
+### 📊 Data & Business Intelligence
+- Data Analysis  
+- Data Visualization  
+- Power BI  
+- Excel  
+- MySQL  
 
-### Tools & Environment
-• Git & GitHub  
-• VS Code  
-• NetBeans  
+### 🔧 Tools & Environment
+- Git & GitHub  
+- VS Code  
+- NetBeans  
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fatima-ezahrae22&show_icons=true&theme=radical" />
@@ -59,7 +63,7 @@
 
 ---
 
-## GitHub Activity
+## 🔥 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatima-ezahrae22&theme=react-dark" />
@@ -67,12 +71,12 @@
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
-• 🔥 Strengthening my Backend development skills  
-• 📊 Building real-world Data Analytics projects  
-• 📈 Creating Business Intelligence dashboards  
-• 🎯 Seeking internship opportunities in Data, BI, or Backend Development  
+- 🔥 Strengthening my Backend development skills  
+- 📊 Building real-world Data Analytics projects  
+- 📈 Creating Business Intelligence dashboards  
+- 🎯 Seeking internship opportunities in Data, BI, or Backend Development  
 
 ---
 
